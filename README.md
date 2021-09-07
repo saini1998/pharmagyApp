@@ -1,9 +1,12 @@
-# Imarticus iOS Test: Pharmagy
+# Pharmagy App
 
 <p align="center">
   <img  src="appIcon.png">
 </p>
 
+## Demo
+
+<img src="demo.gif" width="250" height="500"/>
 
 
 ## System Requirements

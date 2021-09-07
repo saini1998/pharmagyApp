@@ -8,7 +8,7 @@
 import SwiftUI
 
 class ViewRouter: ObservableObject{
-    @Published var currentPage: Page = .clock
+    @Published var currentPage: Page = .calendar
 }
 
 enum Page {
