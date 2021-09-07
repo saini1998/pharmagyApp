@@ -6,8 +6,9 @@
 
 ## Demo
 
+<p align="center">
 <img src="demo.gif" width="250" height="500"/>
-
+</p>
 
 ## System Requirements
 
